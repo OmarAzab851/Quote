@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: bold;
+    
+}
+.quo{
+    font-size:30px
+}
+#quote-box {
+    font-size: 35px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 250px;
+    height: 80px;
+    
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+span {
+    display: block;
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #555;
+}
+
